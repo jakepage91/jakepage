@@ -18,10 +18,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     
-    <title>Blogs · Jake Page</title>
+    <title>Videos · Jake Page</title>
     
-    <link>https://jakepage91.github.io/jakepage/blog/</link>
-    <description>Recent content in Blogs · Jake Page</description>
+    <link>https://jakepage91.github.io/jakepage/videos/</link>
+    <description>Recent content in Videos · Jake Page</description>
     
     <language>en-us</language>
     
@@ -33,22 +33,22 @@
     <copyright>© Jake Page</copyright>
     
     
-    <lastBuildDate>Wed, 07 Sep 2022 12:45:03 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Nov 2022 15:48:36 +0000</lastBuildDate>
     
     
-    <atom:link href="https://jakepage91.github.io/jakepage/blog/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://jakepage91.github.io/jakepage/videos/index.xml" rel="self" type="application/rss+xml"/>
     
     
     <item>
       
-      <title>Post1</title>
+      <title>API Gateway</title>
       
       
-      <link>https://jakepage91.github.io/jakepage/blog/2022/09/07/post1/</link>
-      <guid>https://jakepage91.github.io/jakepage/blog/2022/09/07/post1/</guid>
+      <link>https://jakepage91.github.io/jakepage/videos/video1/</link>
+      <guid>https://jakepage91.github.io/jakepage/videos/video1/</guid>
       
       
-      <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
+      <pubDate>Tue, 01 Nov 2022 15:48:36 +0000</pubDate>
       
       
       <author>jake.page91@gmail.com</author>

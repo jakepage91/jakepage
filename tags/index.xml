@@ -26,11 +26,52 @@
     <language>en-us</language>
     
     
+    <managingEditor>jake.page91@gmail.com</managingEditor>
+    <webMaster>jake.page91@gmail.com</webMaster>
     
+    
+    <copyright>© Jake Page</copyright>
+    
+    
+    <lastBuildDate>Wed, 07 Sep 2022 12:45:03 -0700</lastBuildDate>
     
     
     <atom:link href="https://jakepage91.github.io/jakepage/tags/index.xml" rel="self" type="application/rss+xml"/>
     
+    
+    <item>
+      
+      <title>AWS</title>
+      
+      
+      <link>https://jakepage91.github.io/jakepage/tags/aws/</link>
+      <guid>https://jakepage91.github.io/jakepage/tags/aws/</guid>
+      
+      
+      <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
+      
+      
+      <author>jake.page91@gmail.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>Cloud</title>
+      
+      
+      <link>https://jakepage91.github.io/jakepage/tags/cloud/</link>
+      <guid>https://jakepage91.github.io/jakepage/tags/cloud/</guid>
+      
+      
+      <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
+      
+      
+      <author>jake.page91@gmail.com</author>
+      
+      
+    </item>
     
   </channel>
 </rss>

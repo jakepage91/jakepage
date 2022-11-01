@@ -18,10 +18,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     
-    <title>Categories · Jake Page</title>
+    <title>AWS · Jake Page</title>
     
-    <link>https://jakepage91.github.io/jakepage/categories/</link>
-    <description>Recent content in Categories · Jake Page</description>
+    <link>https://jakepage91.github.io/jakepage/tags/aws/</link>
+    <description>Recent content in AWS · Jake Page</description>
     
     <language>en-us</language>
     
@@ -36,16 +36,16 @@
     <lastBuildDate>Wed, 07 Sep 2022 12:45:03 -0700</lastBuildDate>
     
     
-    <atom:link href="https://jakepage91.github.io/jakepage/categories/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://jakepage91.github.io/jakepage/tags/aws/index.xml" rel="self" type="application/rss+xml"/>
     
     
     <item>
       
-      <title>Tech</title>
+      <title>Post1</title>
       
       
-      <link>https://jakepage91.github.io/jakepage/categories/tech/</link>
-      <guid>https://jakepage91.github.io/jakepage/categories/tech/</guid>
+      <link>https://jakepage91.github.io/jakepage/blog/2022/09/07/post1/</link>
+      <guid>https://jakepage91.github.io/jakepage/blog/2022/09/07/post1/</guid>
       
       
       <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
@@ -53,6 +53,11 @@
       
       <author>jake.page91@gmail.com</author>
       
+      
+      <description><![CDATA[<h2 id="this-is-the-title">This is the title</h2>
+<h3 id="this-is-the-subtile">This is the subtile</h3>
+<p>This is the body of the test</p>
+]]></description>
       
     </item>
     
