@@ -1,0 +1,58 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Blogs · Jake Page</title>
+    
+    <link>https://jakepage91.github.io/jakepage/blog/</link>
+    <description>Recent content in Blogs · Jake Page</description>
+    
+    <language>en-us</language>
+    
+    
+    
+    
+    <lastBuildDate>Tue, 01 Nov 2022 15:48:36 +0000</lastBuildDate>
+    
+    
+    <atom:link href="https://jakepage91.github.io/jakepage/blog/index.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    <item>
+      
+      <title>Post1</title>
+      
+      
+      <link>https://jakepage91.github.io/jakepage/blog/post1/</link>
+      <guid>https://jakepage91.github.io/jakepage/blog/post1/</guid>
+      
+      
+      <pubDate>Tue, 01 Nov 2022 15:48:36 +0000</pubDate>
+      
+      
+      
+      <description><![CDATA[<h2 id="this-is-the-title">This is the title</h2>
+<h3 id="this-is-the-subtile">This is the subtile</h3>
+<p>This is the body of the test</p>
+]]></description>
+      
+    </item>
+    
+  </channel>
+</rss>

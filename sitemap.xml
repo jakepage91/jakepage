@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jakepage91.github.io/jakepage/blog/</loc>
+    <lastmod>2022-11-01T15:48:36+00:00</lastmod>
+  </url><url>
     <loc>https://jakepage91.github.io/jakepage/</loc>
     <lastmod>2022-11-01T15:48:36+00:00</lastmod>
   </url><url>
-    <loc>https://jakepage91.github.io/jakepage/posts/post1/</loc>
+    <loc>https://jakepage91.github.io/jakepage/blog/post1/</loc>
     <lastmod>2022-11-01T15:48:36+00:00</lastmod>
   </url><url>
-    <loc>https://jakepage91.github.io/jakepage/posts/</loc>
-    <lastmod>2022-11-01T15:48:36+00:00</lastmod>
+    <loc>https://jakepage91.github.io/jakepage/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jakepage91.github.io/jakepage/categories/</loc>
   </url><url>
